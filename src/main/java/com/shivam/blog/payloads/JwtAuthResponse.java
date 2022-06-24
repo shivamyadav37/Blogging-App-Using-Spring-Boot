@@ -6,4 +6,9 @@ import lombok.Data;
 public class JwtAuthResponse {
 
 	private String token;
+
+	public void setToken(String token2) {
+		// TODO Auto-generated method stub
+		
+	}
 }

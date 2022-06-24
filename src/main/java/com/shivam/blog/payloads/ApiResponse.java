@@ -11,6 +11,9 @@ import lombok.Setter;
 @AllArgsConstructor
 public class ApiResponse {
 
+	public ApiResponse(String string, boolean b) {
+		// TODO Auto-generated constructor stub
+	}
 	private String message;
 	private boolean success;
 }

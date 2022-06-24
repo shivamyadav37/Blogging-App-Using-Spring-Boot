@@ -15,5 +15,20 @@ public class Role {
 	private int id;
 	
 	private String name;
+
+	public void setId(Integer adminUser) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void setName(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public char[] getName() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 	
 }
